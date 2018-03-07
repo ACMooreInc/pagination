@@ -1,0 +1,18 @@
+{
+  "name": "@ac-moore-inc/pagination",
+  "version": "1.0.0",
+  "description": "Middleware to parse pagination properties set as query parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ACMooreInc/pagination"
+  },
+  "author": "A.C. Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ACMooreInc/pagination/issues"
+  }
+}
