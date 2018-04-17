@@ -1,6 +1,6 @@
 {
   "name": "@ac-moore-inc/pagination",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Middleware to parse pagination properties set as query parameters",
   "main": "index.js",
   "scripts": {
